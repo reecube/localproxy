@@ -1,0 +1,16 @@
+{
+  "name": "reecube/localproxy",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Yves Riedener"
+    }
+  ],
+  "require": {
+    "jenssegers/proxy": "^3.1",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  }
+}
